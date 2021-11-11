@@ -1,13 +1,12 @@
 Content-Encoding: gzip
-Accept-Ranges: bytes
-Age: 354375
+Age: 546898
 Cache-Control: max-age=604800
 Content-Type: text/html; charset=UTF-8
-Date: Fri, 05 Nov 2021 18:30:12 GMT
-Etag: "3147526947+ident"
-Expires: Fri, 12 Nov 2021 18:30:12 GMT
+Date: Fri, 05 Nov 2021 19:24:01 GMT
+Etag: "3147526947+gzip"
+Expires: Fri, 12 Nov 2021 19:24:01 GMT
 Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
-Server: ECS (nyb/1D07)
+Server: ECS (nyb/1D1E)
 Vary: Accept-Encoding
 X-Cache: HIT
 Content-Length: 648
